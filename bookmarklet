@@ -1,0 +1,1 @@
+javascript:window.location='instagram://user?username='+location.pathname.substring(1)
